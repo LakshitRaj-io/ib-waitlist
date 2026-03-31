@@ -1,0 +1,17 @@
+<svg width="260" height="72" viewBox="0 0 260 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Three colored squares above the "i" dot -->
+  <rect x="0" y="0" width="13" height="12" fill="#E82C33"/>
+  <rect x="16" y="0" width="13" height="12" fill="#F4A924"/>
+  <rect x="32" y="0" width="13" height="12" fill="#49A026"/>
+
+  <!-- "icebrkr" wordmark in bold sans-serif -->
+  <text
+    x="0"
+    y="65"
+    font-family="'Inter', 'Helvetica Neue', Arial, sans-serif"
+    font-weight="800"
+    font-size="56"
+    letter-spacing="-2"
+    fill="#111111"
+  >icebrkr</text>
+</svg>
