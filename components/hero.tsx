@@ -82,7 +82,7 @@ export function Hero() {
       >
         Your day.
         <br />
-        <span className="text-[#F02D3A]">Before you even asked.</span>
+        <span className="text-[#1A6630]">Before you even asked.</span>
       </motion.h1>
 
       <motion.p
@@ -91,7 +91,7 @@ export function Hero() {
         transition={{ duration: 0.65, delay: 0.38 }}
         className="text-base md:text-lg text-[#5D6166] mt-5 max-w-md leading-relaxed"
       >
-        One scroll for your whole life. No app-switching. Just AIPA — your proactive AI, already a step ahead.
+        Lifelong personal assistant. Let AIPA grow with you. Proactive is our magic sauce.
       </motion.p>
 
       <motion.form
@@ -211,7 +211,7 @@ export function Hero() {
                     transition={{ duration: 9, repeat: Infinity, ease: "linear" }}
                     className="inline-block text-[9px] font-semibold text-[#CC6D00]"
                   >
-                    Investor call in 8 min · Eggs expiring today · Outfit: 94% match · Anika nearby — 6 shared interests · Investor call in 8 min · Eggs expiring today · Outfit: 94% match · Anika nearby — 6 shared interests ·
+                    Group study in 8 min · Eggs expiring today · Outfit: 94% match · Anika nearby — 6 shared interests · Group study in 8 min · Eggs expiring today · Outfit: 94% match · Anika nearby — 6 shared interests ·
                   </motion.span>
                 </div>
               </div>
@@ -224,8 +224,8 @@ export function Hero() {
                 className="bg-white border border-[#D6D8D9] rounded-xl p-3 pl-4 relative overflow-hidden"
               >
                 <div className="absolute left-0 top-0 bottom-0 w-1 bg-[#F02D3A] rounded-l-xl" />
-                <div className="text-[11px] font-semibold text-black leading-tight">Investor call in 8 min</div>
-                <div className="text-[9px] text-[#5D6166] mt-0.5">Calendar · Zoom ready</div>
+                <div className="text-[11px] font-semibold text-black leading-tight">Group study in 8 min</div>
+                <div className="text-[9px] text-[#5D6166] mt-0.5">Calendar · Notes ready</div>
                 <span className="inline-block bg-[#FDE8E9] text-[#B71C28] text-[8px] font-semibold px-2 py-0.5 rounded mt-1">AIPA</span>
               </motion.div>
 
