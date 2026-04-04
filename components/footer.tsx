@@ -32,7 +32,7 @@ export function Footer() {
 
           {/* Tagline */}
           <p className="text-[#9CA3AF] text-sm leading-relaxed max-w-xs font-sans">
-            Breaking the Ice Building the Gap. Efficiency is icebrkr’s other name.
+            Breaking the Ice, Bridging the Gap. 
           </p>
         </div>
 
@@ -65,7 +65,7 @@ export function Footer() {
 
           {/* Right — copyright */}
           <p>
-            &copy; {new Date().getFullYear()} icebrkr. All rights reserved.
+            &copy; {new Date().getFullYear()} icebrkr switzerland. All rights reserved.
           </p>
 
         </div>
