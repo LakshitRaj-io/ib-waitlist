@@ -35,8 +35,8 @@ const privacyFeatures = [
       </svg>
     ),
     title: "AES-256 encryption",
-    body: "Military-grade encryption protects everything. End to end.",
-    fullBody: "Every byte is protected with AES-256 — the same standard used by governments and militaries. End-to-end encryption means only you can decrypt your data. Not even we can read it.",
+    body: "Bank-grade encryption protects everything. End to end.",
+    fullBody: "Every byte is protected with AES-256 — the same standard used by financial institutions globally. End-to-end encryption means only you can decrypt your data. Not even we can read it.",
     accentColor: "#F59E0B",
     bgColor: "#FFF3CD",
   },
@@ -125,7 +125,7 @@ export function PrivacySection() {
           transition={{ duration: 0.65, delay: 0.1 }}
           className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold leading-tight tracking-tight text-center text-black max-w-3xl mx-auto mb-12 md:mb-16"
         >
-          Your data. On your device.
+          Your Data is Yours. On your device.
           <br />
           End of story.
         </motion.h2>
