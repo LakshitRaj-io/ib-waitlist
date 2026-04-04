@@ -32,7 +32,7 @@ export function Footer() {
 
           {/* Tagline */}
           <p className="text-[#9CA3AF] text-sm leading-relaxed max-w-xs font-sans">
-            Breaking the Ice Building the Gap. Efficiency is icebrkr’s other name.
+            Breaking the Ice Building the Gap.
           </p>
         </div>
 
