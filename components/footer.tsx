@@ -32,7 +32,7 @@ export function Footer() {
 
           {/* Tagline */}
           <p className="text-[#9CA3AF] text-sm leading-relaxed max-w-xs font-sans">
-            Your day. Before you even asked.
+            Breaking the Ice Building the Gap. Efficiency is icebrkr’s other name.
           </p>
         </div>
 
@@ -47,19 +47,19 @@ export function Footer() {
             <span className="flex items-center gap-1.5">
               <span className="inline-flex items-center justify-center w-4 h-3 rounded-sm overflow-hidden flex-shrink-0">
                 <svg viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-full h-full">
-                  <rect width="16" height="12" fill="#D52B1E"/>
-                  <rect x="6" y="0" width="4" height="12" fill="white"/>
-                  <rect x="0" y="4" width="16" height="4" fill="white"/>
+                  <rect width="16" height="12" fill="#D52B1E" />
+                  <rect x="6" y="0" width="4" height="12" fill="white" />
+                  <rect x="0" y="4" width="16" height="4" fill="white" />
                 </svg>
               </span>
               Geneva, Switzerland · Data stored in Switzerland
             </span>
             <span className="hidden md:inline text-[#E5E7EB]">|</span>
             <a
-              href="mailto:ben@icebrkr.one"
+              href="mailto:info@icebrkr.one"
               className="hover:text-[#111111] transition-colors duration-200"
             >
-              ben@icebrkr.one
+              info@icebrkr.one
             </a>
           </div>
 
