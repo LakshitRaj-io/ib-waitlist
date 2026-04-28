@@ -8,19 +8,19 @@ const lexend = Lexend({ subsets: ["latin"], variable: "--font-lexend" });
 export const metadata: Metadata = {
   title: 'icebrkr — Your day. Before you even asked.',
   description: 'The proactive AI personal assistant that anticipates your needs. One scroll for your whole life.',
-  generator: 'v0.app',
+  generator: 'icebrkr.one',
   icons: {
     icon: [
       {
-        url: '/icon-light-32x32.png',
+        url: '/ib-icon.svg',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '/icon-dark-32x32.png',
+        url: '/ib-icon.svg',
         media: '(prefers-color-scheme: dark)',
       },
       {
-        url: '/icon.svg',
+        url: '/ib-icon.svg',
         type: 'image/svg+xml',
       },
     ],
